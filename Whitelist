@@ -68,13 +68,17 @@ mijn.benu.nl
 ideal.nl
 
 #Spotify
+.ash.spotify.com
+.ash1.spotify.com
+.ash2.spotify.com
+.weblb-wg.
+ap.spotify.com
 api-spotify.com
 api-partner.spotify.com
 api-tv.spotify.com
-ash-dealer.spotify.com
-ash.weblb-wg.dual-gslb.spotify.com
+apresolve.spotify.com
 audio-sp.spotify.com
-audio-fa.spotify.com
+audio-sp-
 dealer.spotify.com
 dealer-ssl.spotify.com
 gslb.spotify.com
@@ -84,16 +88,8 @@ play.spotify.com
 spclient.spotify.com
 sto3.spotify.com
 wg.spotify.com
-geo3.ggpht.com
-googlehosted.l.googleusercontent.com
-redirector.gvt1.com
-tv.scdn.co
-i.scdn.co
-o.scdn.co
-p.scdn.co
-t.scdn.co
-apresolve.spotify.com
 spclient.wg.spotify.com
+apresolve.spotify.com
 
 # Spotify's Anti-Adveritsing blocking servers, tricking services to stop music services:
 gcdn.2mdn.net
